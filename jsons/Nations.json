@@ -19,11 +19,11 @@
 
         "tradeRequest": ".",
 
-        "outerColor": [85, 85, 85],
-        "innerColor": [126, 192, 253],
+        "outerColor": [100, 0, 0,],
+        "innerColor": [255, 0, 0,],
         "favoredReligion": "Islam",
         "uniqueName": "Ready",
-        "uniques": ["."],
+        "uniques": [""],
         "cities": [
             "Redmine",
             "Reoun",
