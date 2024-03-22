@@ -10,10 +10,6 @@
 		"production": 1,
 		"science": 1,
 		"military": 10,
-		"priorities": {
-			"Honor": 30,
-			"Autocracy": 20
-		},
 		"warMongering": 10,
 		"civilopediaText": [
 			{"text": "This Personalities is Focusing way to much on warmongering that they lack development very severely"}
