@@ -24,7 +24,9 @@
         "innerColor": [255, 0, 0],
         "favoredReligion": "Islam",
         "uniqueName": "Ready",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units> <when defending>"],
+        "uniques": ["[-33]% Strength <vs [Barbarian] units>",
+                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>",
+                    "[-30]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <when at war>"],
         "cities": [
             "Redmine",
             "Reoun",
