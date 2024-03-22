@@ -19,8 +19,8 @@
 
         "tradeRequest": ".",
 
-        "outerColor": [100, 0, 0,],
-        "innerColor": [255, 0, 0,],
+        "outerColor": [100, 0, 0],
+        "innerColor": [255, 0, 0],
         "favoredReligion": "Islam",
         "uniqueName": "Ready",
         "uniques": [""],
