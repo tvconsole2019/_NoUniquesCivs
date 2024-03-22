@@ -7,6 +7,8 @@
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		             "Limited to [8] per Civilization",
-		             "[-10]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war> <for [AI player]>"]
+		             "[-10]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war> <for [AI player]>",
+		             "[+100]% unhappiness from the number of cities <for [AI player]>", 
+			     "[+100]% Unhappiness from [Population] [in all cities] <for [AI player]>"]
 	},
 ]
