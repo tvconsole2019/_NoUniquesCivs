@@ -4,7 +4,7 @@
         "leaderName": "Renny",
         "adjective": ["Reddy"],
         "startBias": ["Desert"],
-        "personality": ["Dominating"],
+        "personality": "Extreme Ambitious",
         "preferredVictoryType":"Domination",
 
         "startIntroPart1": ".",
