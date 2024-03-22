@@ -1,4 +1,4 @@
-[ 
+ [ 
     {
         "name": "Red Republic",
         "leaderName": "Rudy",
@@ -290,8 +290,8 @@
 
         "tradeRequest": ".",
 
-        "outerColor": [0, 200, 255],
-        "innerColor": [0, 100, 155],
+        "outerColor": [150, 0, 150],
+        "innerColor": [100, 0, 100],
         "favoredReligion": "Taoism",
         "uniqueName": "Purple World",
         "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
