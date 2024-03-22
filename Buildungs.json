@@ -1,0 +1,12 @@
+
+[
+	{
+		"name": "Disablities",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [ "Automatically built in all cities where it is buildable",
+		    "Limited to [5] per Civilization",
+	            "[50]% [Gold] [in all cities] <for [Human player]>"]
+	},
+]
