@@ -6,8 +6,8 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
-		             "Limited to [8] per Civilization",
-		             "[-10]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war> <for [AI player]>",
+		             "Limited to [16] per Civilization",
+		             "[-5]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war> <for [AI player]>",
 		             "Rebel units may spawn <During a Golden Age>"]
 	},
 ]
