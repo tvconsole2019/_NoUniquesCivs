@@ -24,7 +24,7 @@
         "innerColor": [255, 0, 0],
         "favoredReligion": "Islam",
         "uniqueName": "Ready",
-        "uniques": [""],
+        "uniques": ["[-33]% Strength <vs [Barbarian] units> <when defending>"],
         "cities": [
             "Redmine",
             "Reoun",
