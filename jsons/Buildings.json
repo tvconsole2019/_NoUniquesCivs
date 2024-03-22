@@ -6,9 +6,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
-		             "Limited to [5] per Civilization",
-			     "[+5]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>",
-		             "[-5]% Strength <for [All] units> <when fighting in [Foreign Land] tiles>",
-		             "[-5]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <when at war>"]
+		             "Limited to [8] per Civilization",
+		             "[-5]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war>"]
 	},
 ]
