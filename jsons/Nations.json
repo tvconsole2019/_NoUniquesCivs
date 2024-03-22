@@ -157,7 +157,7 @@
 
         "outerColor": [0, 0, 100],
         "innerColor": [0, 0, 255],
-        "favoredReligion": "Confusion",
+        "favoredReligion": "Confucianism",
         "uniqueName": "Favorites",
         "uniques": ["[-33]% Strength <vs [Barbarian] units> <when defending>"],
         "cities": [
