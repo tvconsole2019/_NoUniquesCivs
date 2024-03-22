@@ -24,9 +24,7 @@
         "innerColor": [255, 0, 0],
         "favoredReligion": "Islam",
         "uniqueName": "Ready",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units>",
-                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>",
-                    "[-30]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <when at war>"],
+        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
         "cities": [
             "Redmine",
             "Reoun",
@@ -71,7 +69,7 @@
         "innerColor": [255, 255, 0],
         "favoredReligion": "Christianity",
         "uniqueName": "Yellow Desert",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units> <when defending>"],
+        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
         "cities": [
             "Yellowstone",
             "Yeum",
@@ -116,7 +114,7 @@
         "innerColor": [0, 255, 0],
         "favoredReligion": "Taoism",
         "uniqueName": "Greener",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units> <when defending>"],
+        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
         "cities": [
             "Greeneration",
             "Gruna",
@@ -161,7 +159,7 @@
         "innerColor": [0, 0, 255],
         "favoredReligion": "Confucianism",
         "uniqueName": "Favorites",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units> <when defending>"],
+        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
         "cities": [
             "Blueberry",
             "Berry",
