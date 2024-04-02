@@ -22,9 +22,8 @@
 
         "outerColor": [100, 0, 0],
         "innerColor": [255, 0, 0],
-        "favoredReligion": "Islam",
-        "uniqueName": "Ready",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
+        "uniqueName": "Rudy Blessing",
+        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Redmine",
             "Reoun",
@@ -67,9 +66,8 @@
 
         "outerColor": [255, 150, 0],
         "innerColor": [155, 100, 0],
-        "favoredReligion": "Islam",
-        "uniqueName": "Orangisme",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
+        "uniqueName": "Orange Fate",
+        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Orangemilly",
             "Oranging",
@@ -112,9 +110,8 @@
 
         "outerColor": [100, 100, 0],
         "innerColor": [255, 255, 0],
-        "favoredReligion": "Christianity",
-        "uniqueName": "Yellow Desert",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
+        "uniqueName": "Yellow Order",
+        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Yellowstone",
             "Yeum",
@@ -157,9 +154,8 @@
 
         "outerColor": [0, 100, 0],
         "innerColor": [0, 255, 0],
-        "favoredReligion": "Taoism",
-        "uniqueName": "Greener",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
+        "uniqueName": "Green Golden Age",
+        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Greeneration",
             "Gruna",
@@ -202,9 +198,8 @@
 
         "outerColor": [0, 255, 255],
         "innerColor": [0, 100, 100],
-        "favoredReligion": "Confucianism",
         "uniqueName": "Cyan Supremacy",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
+        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Cyan HQ",
             "Cyun",
@@ -247,9 +242,8 @@
 
         "outerColor": [0, 0, 100],
         "innerColor": [0, 0, 255],
-        "favoredReligion": "Confucianism",
-        "uniqueName": "Favorites",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
+        "uniqueName": "Blueish",
+        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Blueberry",
             "Berry",
@@ -292,9 +286,8 @@
 
         "outerColor": [150, 0, 150],
         "innerColor": [100, 0, 100],
-        "favoredReligion": "Taoism",
         "uniqueName": "Purple World",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
+        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Purplis",
             "Purpna",
@@ -337,9 +330,8 @@
 
         "outerColor": [255, 0, 255],
         "innerColor": [100, 0, 100 ],
-        "favoredReligion": "Christianity",
         "uniqueName": "Pink Freedom",
-        "uniques": ["[-33]% Strength <vs [Barbarian] units>"],
+        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Pinkytown",
             "Ponkycity",
