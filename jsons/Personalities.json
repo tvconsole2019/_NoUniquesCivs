@@ -30,7 +30,7 @@
           "Autocracy": 50,
           "Order": 30
       },
-      "uniques": ["Will not build [Wonder]"],
+      "uniques": ["Will not build [World Wonder]"],
       "civilopediaText": [
           {"text": "This Personalities is Focusing way to much on warmongering that they lack development very severely"}
       ]
