@@ -2,7 +2,7 @@
     {
         "name": "Red Republic",
         "leaderName": "Rudy",
-        "adjective": ["Reddy"],
+        "adjective": ["Redan"],
         "startBias": ["Coast"],
         "personality": "Extreme Ambitious",
         "preferredVictoryType":"Domination",
@@ -23,7 +23,6 @@
         "outerColor": [100, 0, 0],
         "innerColor": [255, 0, 0],
         "uniqueName": "Rudy Blessing",
-        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Redmine",
             "Reoun",
@@ -67,7 +66,6 @@
         "outerColor": [255, 150, 0],
         "innerColor": [155, 100, 0],
         "uniqueName": "Orange Fate",
-        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Orangemilly",
             "Oranging",
@@ -111,7 +109,6 @@
         "outerColor": [100, 100, 0],
         "innerColor": [255, 255, 0],
         "uniqueName": "Yellow Order",
-        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Yellowstone",
             "Yeum",
@@ -155,7 +152,6 @@
         "outerColor": [0, 100, 0],
         "innerColor": [0, 255, 0],
         "uniqueName": "Green Golden Age",
-        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Greeneration",
             "Gruna",
@@ -199,7 +195,6 @@
         "outerColor": [0, 255, 255],
         "innerColor": [0, 100, 100],
         "uniqueName": "Cyan Supremacy",
-        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Cyan HQ",
             "Cyun",
@@ -243,7 +238,6 @@
         "outerColor": [0, 0, 100],
         "innerColor": [0, 0, 255],
         "uniqueName": "Blueish",
-        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Blueberry",
             "Berry",
@@ -287,7 +281,6 @@
         "outerColor": [150, 0, 150],
         "innerColor": [100, 0, 100],
         "uniqueName": "Purple World",
-        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Purplis",
             "Purpna",
@@ -331,7 +324,6 @@
         "outerColor": [255, 0, 255],
         "innerColor": [100, 0, 100 ],
         "uniqueName": "Pink Freedom",
-        "uniques": ["[-33]% Strength <for [All] units> <when defending>"],
         "cities": [
             "Pinkytown",
             "Ponkycity",
