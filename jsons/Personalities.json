@@ -1,18 +1,38 @@
 [
 	{
-		"name": "Extreme Ambitious",
-		"preferredVictoryType": "Domination",
-		"culture": 1,
-		"faith": 1,
-		"food": 1,
-		"gold": 1,
-		"happiness": 1,
-		"production": 1,
-		"science": 1,
-		"military": 10,
-		"warMongering": 10,
-		"civilopediaText": [
-			{"text": "This Personalities is Focusing way to much on warmongering that they lack development very severely"}
-		]
-	}
+      "name": "Extreme Ambitious",
+      // Stats focused personalities
+      "culture": 1,
+      "faith": 1,
+      "food": 1,
+      "gold": 1,
+      "happiness": 1,
+      "production": 1,
+      "science": 1,
+      // Behaviour focused personalities
+      "military": 10,
+      "aggressive": 10,
+      "declareWar": 10,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 1,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 10,
+          "Liberty": 0,
+          "Honor": 50,
+          "Commerce": 30,
+          "Patronage": 0,
+          "Piety": 0,
+          "Rationalism": 30,
+          "Freedom": 10,
+          "Autocracy": 50,
+          "Order": 30
+      },
+      "uniques": ["Will not build [Wonder]"],
+      "civilopediaText": [
+          {"text": "This Personalities is Focusing way to much on warmongering that they lack development very severely"}
+      ]
+      },
 ]
