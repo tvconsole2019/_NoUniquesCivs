@@ -7,7 +7,7 @@
       "food": 1,
       "gold": 1,
       "happiness": 1,
-      "production": 1,
+      "production": 5,
       "science": 1,
       // Behaviour focused personalities
       "military": 10,
@@ -16,7 +16,7 @@
       "commerce": 5,
       "diplomacy": 5,
       "loyal": 1,
-      "expansion": 10,
+      "expansion": 5,
 
       "priorities": {
           "Tradition": 10,
