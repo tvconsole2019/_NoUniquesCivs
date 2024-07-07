@@ -17,10 +17,5 @@
       "diplomacy": 5,
       "loyal": 5,
       "expansion": 5,
-      },
-      "uniques": [""],
-      "civilopediaText": [
-          {"text": "this civilization is all around neutral with default focus and no victory goal"}
-      ]
-      },
+      }
 ]
