@@ -18,7 +18,7 @@
       "loyal": 5,
       "expansion": 5,
       },
-      "uniques": ["[-50]% Production when constructing [World] wonders [in all cities]"],
+      "uniques": [""],
       "civilopediaText": [
           {"text": "this civilization is all around neutral with default focus and no victory goal"}
       ]
