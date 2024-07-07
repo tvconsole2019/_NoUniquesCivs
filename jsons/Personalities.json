@@ -1,38 +1,26 @@
 [
 	{
-      "name": "Extreme Ambitious",
+      "name": "Neutral",
       // Stats focused personalities
-      "culture": 4,
-      "faith": 4,
-      "food": 4,
-      "gold": 4,
-      "happiness": 4,
-      "production": 4,
-      "science": 4,
+      "culture": 5,
+      "faith": 5,
+      "food": 5,
+      "gold": 5,
+      "happiness": 5,
+      "production": 5,
+      "science": 5,
       // Behaviour focused personalities
-      "military": 10,
-      "aggressive": 10,
-      "declareWar": 10,
-      "commerce": 1,
-      "diplomacy": 1,
-      "loyal": 1,
-      "expansion": 10,
-
-      "priorities": {
-          "Tradition": 10,
-          "Liberty": 0,
-          "Honor": 50,
-          "Commerce": 30,
-          "Patronage": 0,
-          "Piety": 0,
-          "Rationalism": 30,
-          "Freedom": 10,
-          "Autocracy": 50,
-          "Order": 30
+      "military": 5,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 5,
+      "expansion": 5,
       },
-      "uniques": ["Will not build [World Wonder]"],
+      "uniques": ["[-50]% Production when constructing [World] wonders [in all cities]"],
       "civilopediaText": [
-          {"text": "This Personalities is Focusing way to much on warmongering that they lack development very severely"}
+          {"text": "this civilization is all around neutral with default focus and no victory goal"}
       ]
       },
 ]
