@@ -10,12 +10,12 @@
       "production": 5,
       "science": 5,
       // Behaviour focused personalities
-      "military": 10,
-      "aggressive": 10,
-      "declareWar": 10,
+      "military": 5,
+      "aggressive": 5,
+      "declareWar": 5,
       "commerce": 5,
       "diplomacy": 5,
-      "loyal": 1,
-      "expansion": 10,
+      "loyal": 5,
+      "expansion": 5,
       }
 ]
